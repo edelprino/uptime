@@ -1,5 +1,25 @@
 [
   {
+    "name": "Ettore Delprino",
+    "url": "https://edelprino.com",
+    "icon": "https://icons.duckduckgo.com/ip3/edelprino.com.ico",
+    "slug": "ettore-delprino",
+    "status": "down",
+    "uptime": "12.99%",
+    "uptimeDay": "12.99%",
+    "uptimeWeek": "12.99%",
+    "uptimeMonth": "12.99%",
+    "uptimeYear": "12.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
+  },
+  {
     "name": "Zena Climbing",
     "url": "https://www.zenaclimbing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
@@ -10,11 +30,47 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 618,
-    "timeWeek": 618,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Climbing Land",
+    "url": "https://www.climbing.land",
+    "icon": "https://icons.duckduckgo.com/ip3/www.climbing.land.ico",
+    "slug": "climbing-land",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 883,
+    "timeDay": 883,
+    "timeWeek": 883,
+    "timeMonth": 883,
+    "timeYear": 883,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Find Your Crag",
+    "url": "https://findyourcrag.com",
+    "icon": "https://icons.duckduckgo.com/ip3/findyourcrag.com.ico",
+    "slug": "find-your-crag",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   }
 ]
