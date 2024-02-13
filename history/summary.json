@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/edelprino.com.ico",
     "slug": "ettore-delprino",
     "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "95.58%",
-    "uptimeWeek": "95.58%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "95.58%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
-    "dailyMinutesDown": {
-      "2024-02-11": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 360,
+    "timeDay": 357,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zena Climbing",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 735,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 706,
+    "timeDay": 647,
+    "timeWeek": 706,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 672,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "time": 686,
+    "timeDay": 708,
+    "timeWeek": 686,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 428,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 390,
+    "timeDay": 333,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   }
 ]
