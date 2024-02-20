@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 716,
     "timeDay": 627,
     "timeWeek": 723,
@@ -60,17 +60,19 @@
     "url": "https://findyourcrag.com",
     "icon": "https://icons.duckduckgo.com/ip3/findyourcrag.com.ico",
     "slug": "find-your-crag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 297,
-    "timeWeek": 383,
-    "timeMonth": 386,
-    "timeYear": 386,
-    "dailyMinutesDown": {}
+    "time": 380,
+    "timeDay": 305,
+    "timeWeek": 374,
+    "timeMonth": 380,
+    "timeYear": 380,
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   }
 ]
