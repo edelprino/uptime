@@ -22,18 +22,19 @@
     "url": "https://www.zenaclimbing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 757,
-    "timeDay": 903,
+    "timeDay": 735,
     "timeWeek": 754,
     "timeMonth": 763,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2024-03-15": 2,
       "2024-02-16": 16
     }
   },
@@ -42,18 +43,20 @@
     "url": "https://www.climbing.land",
     "icon": "https://icons.duckduckgo.com/ip3/www.climbing.land.ico",
     "slug": "climbing-land",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
-    "timeDay": 2835,
+    "timeDay": 4734,
     "timeWeek": 1352,
     "timeMonth": 901,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "Find Your Crag",
