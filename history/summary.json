@@ -22,10 +22,10 @@
     "url": "https://www.zenaclimbing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.72%",
     "time": 981,
@@ -34,6 +34,7 @@
     "timeMonth": 1142,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2024-03-30": 2,
       "2024-03-27": 84,
       "2024-03-20": 92,
       "2024-02-16": 16
@@ -44,7 +45,7 @@
     "url": "https://www.climbing.land",
     "icon": "https://icons.duckduckgo.com/ip3/www.climbing.land.ico",
     "slug": "climbing-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
@@ -56,6 +57,7 @@
     "timeMonth": 969,
     "timeYear": 865,
     "dailyMinutesDown": {
+      "2024-03-30": 0,
       "2024-03-27": 82,
       "2024-03-20": 91
     }
