@@ -11,6 +11,8 @@ sites:
     url: https://www.climbing.land
   - name: Find Your Crag
     url: https://findyourcrag.com
+  - name: Scalando
+    url: https://scalando.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
