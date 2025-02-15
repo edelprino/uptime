@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 430,
-    "timeWeek": 487,
+    "timeDay": 385,
+    "timeWeek": 468,
     "timeMonth": 482,
-    "timeYear": 452,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.49%",
-    "time": 1450,
-    "timeDay": 772,
-    "timeWeek": 779,
-    "timeMonth": 775,
+    "time": 1449,
+    "timeDay": 718,
+    "timeWeek": 775,
+    "timeMonth": 776,
     "timeYear": 1462,
     "dailyMinutesDown": {
       "2025-02-12": 57,
@@ -84,8 +84,7 @@
       "2024-04-02": 709,
       "2024-04-01": 37,
       "2024-03-27": 84,
-      "2024-03-20": 92,
-      "2024-02-16": 16
+      "2024-03-20": 92
     }
   },
   {
@@ -99,10 +98,10 @@
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.53%",
-    "time": 1392,
-    "timeDay": 626,
-    "timeWeek": 787,
-    "timeMonth": 804,
+    "time": 1390,
+    "timeDay": 765,
+    "timeWeek": 794,
+    "timeMonth": 810,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2025-02-12": 57,
@@ -167,9 +166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
-    "timeDay": 350,
-    "timeWeek": 433,
-    "timeMonth": 445,
+    "timeDay": 413,
+    "timeWeek": 434,
+    "timeMonth": 446,
     "timeYear": 448,
     "dailyMinutesDown": {}
   },
@@ -185,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 141,
-    "timeWeek": 204,
-    "timeMonth": 157,
+    "timeDay": 124,
+    "timeWeek": 161,
+    "timeMonth": 155,
     "timeYear": 149,
     "dailyMinutesDown": {}
   }
