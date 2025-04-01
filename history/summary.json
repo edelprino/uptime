@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 537,
-    "timeWeek": 434,
-    "timeMonth": 452,
+    "timeDay": 418,
+    "timeWeek": 435,
+    "timeMonth": 454,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.53%",
-    "time": 1386,
-    "timeDay": 1035,
-    "timeWeek": 813,
-    "timeMonth": 818,
-    "timeYear": 1444,
+    "time": 1385,
+    "timeDay": 771,
+    "timeWeek": 823,
+    "timeMonth": 820,
+    "timeYear": 1439,
     "dailyMinutesDown": {
       "2025-02-20": 19,
       "2025-02-12": 57,
@@ -82,8 +82,7 @@
       "2024-04-07": 391,
       "2024-04-06": 544,
       "2024-04-03": 578,
-      "2024-04-02": 709,
-      "2024-04-01": 37
+      "2024-04-02": 709
     }
   },
   {
@@ -97,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.56%",
-    "time": 1337,
-    "timeDay": 935,
-    "timeWeek": 791,
-    "timeMonth": 860,
+    "time": 1336,
+    "timeDay": 672,
+    "timeWeek": 772,
+    "timeMonth": 854,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2025-02-20": 19,
@@ -148,8 +147,7 @@
       "2024-04-07": 391,
       "2024-04-06": 543,
       "2024-04-03": 576,
-      "2024-04-02": 707,
-      "2024-04-01": 36
+      "2024-04-02": 707
     }
   },
   {
@@ -164,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 478,
-    "timeWeek": 414,
-    "timeMonth": 429,
+    "timeDay": 383,
+    "timeWeek": 422,
+    "timeMonth": 428,
     "timeYear": 452,
     "dailyMinutesDown": {}
   },
@@ -182,9 +180,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 216,
-    "timeWeek": 135,
-    "timeMonth": 142,
+    "timeDay": 147,
+    "timeWeek": 144,
+    "timeMonth": 143,
     "timeYear": 147,
     "dailyMinutesDown": {}
   }
