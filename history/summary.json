@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 399,
-    "timeWeek": 423,
-    "timeMonth": 434,
+    "timeDay": 491,
+    "timeWeek": 416,
+    "timeMonth": 437,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
-    "time": 1379,
-    "timeDay": 713,
-    "timeWeek": 776,
-    "timeMonth": 795,
-    "timeYear": 1420,
+    "uptimeYear": "98.88%",
+    "time": 1377,
+    "timeDay": 759,
+    "timeWeek": 737,
+    "timeMonth": 796,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2025-02-20": 19,
       "2025-02-12": 57,
@@ -78,8 +78,7 @@
       "2024-05-21": 108,
       "2024-05-04": 96,
       "2024-05-02": 18,
-      "2024-04-30": 257,
-      "2024-04-07": 391
+      "2024-04-30": 257
     }
   },
   {
@@ -88,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.climbing.land.ico",
     "slug": "climbing-land",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
-    "time": 1331,
-    "timeDay": 896,
-    "timeWeek": 818,
-    "timeMonth": 837,
-    "timeYear": 1410,
+    "uptimeYear": "98.91%",
+    "time": 1332,
+    "timeDay": 1797,
+    "timeWeek": 941,
+    "timeMonth": 870,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2025-02-20": 19,
       "2025-02-12": 57,
@@ -140,8 +139,7 @@
       "2024-05-21": 97,
       "2024-05-04": 94,
       "2024-05-02": 17,
-      "2024-04-30": 248,
-      "2024-04-07": 391
+      "2024-04-30": 248
     }
   },
   {
@@ -156,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 374,
-    "timeWeek": 384,
-    "timeMonth": 400,
+    "timeDay": 434,
+    "timeWeek": 378,
+    "timeMonth": 403,
     "timeYear": 451,
     "dailyMinutesDown": {}
   },
@@ -174,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 129,
-    "timeWeek": 133,
-    "timeMonth": 135,
+    "timeDay": 99,
+    "timeWeek": 116,
+    "timeMonth": 132,
     "timeYear": 146,
     "dailyMinutesDown": {}
   }
