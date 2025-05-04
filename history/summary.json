@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 413,
-    "timeWeek": 468,
-    "timeMonth": 469,
+    "timeDay": 543,
+    "timeWeek": 456,
+    "timeMonth": 473,
     "timeYear": 458,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zenaclimbing.com.ico",
     "slug": "zena-climbing",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 1354,
-    "timeDay": 794,
-    "timeWeek": 813,
-    "timeMonth": 818,
+    "timeDay": 1019,
+    "timeWeek": 812,
+    "timeMonth": 828,
     "timeYear": 1410,
     "dailyMinutesDown": {
       "2025-02-20": 19,
@@ -75,8 +75,7 @@
       "2024-06-04": 297,
       "2024-05-31": 94,
       "2024-05-28": 136,
-      "2024-05-21": 108,
-      "2024-05-04": 96
+      "2024-05-21": 108
     }
   },
   {
@@ -91,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 1307,
-    "timeDay": 886,
-    "timeWeek": 798,
-    "timeMonth": 872,
-    "timeYear": 1343,
+    "timeDay": 1025,
+    "timeWeek": 773,
+    "timeMonth": 880,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2025-02-20": 19,
       "2025-02-12": 57,
@@ -134,8 +133,7 @@
       "2024-06-04": 296,
       "2024-05-31": 85,
       "2024-05-28": 127,
-      "2024-05-21": 97,
-      "2024-05-04": 94
+      "2024-05-21": 97
     }
   },
   {
@@ -150,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 442,
-    "timeWeek": 430,
-    "timeMonth": 422,
+    "timeDay": 484,
+    "timeWeek": 419,
+    "timeMonth": 423,
     "timeYear": 441,
     "dailyMinutesDown": {}
   },
@@ -167,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 119,
-    "timeWeek": 148,
-    "timeMonth": 136,
-    "timeYear": 145,
+    "time": 146,
+    "timeDay": 386,
+    "timeWeek": 176,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   }
 ]
